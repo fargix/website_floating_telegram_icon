@@ -1,4 +1,4 @@
-.cy_whatsapp_web{
+.cy_telegram_web{
 	position:fixed;
 	width:60px;
 	height:60px;
@@ -17,6 +17,6 @@
 	color: white;
 }
 
-.fa-whatsapp {
+.fa-telegram {
     color:#FFF;
 }
